@@ -1,0 +1,44 @@
+[
+    {
+        "fname": "Ammar",
+        "lname": "sati",
+        "id": "1",
+        "age": 25,
+        "city": "Cairo"
+    },
+    {
+        "fname": "Ahmed",
+        "lname": "sati",
+        "id": "3",
+        "age": 25,
+        "city": "Cairo"
+    },
+    {
+        "fname": "Mohamed",
+        "lname": "Khamed",
+        "id": "5",
+        "age": 25,
+        "city": "Cairo"
+    },
+    {
+        "fname": "Abdo",
+        "lname": "Khamed",
+        "id": "7",
+        "age": 25,
+        "city": "Cairo"
+    },
+    {
+        "fname": "Khaled",
+        "lname": "Khamed",
+        "id": "9",
+        "age": 25,
+        "city": "Cairo"
+    },
+    {
+        "fname": "Omar",
+        "lname": "Khamed",
+        "id": "10",
+        "age": 25,
+        "city": "Cairo"
+    }
+]
